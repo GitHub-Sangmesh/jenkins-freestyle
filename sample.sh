@@ -1,0 +1,10 @@
+#bin/bash/
+echo "This is testing from git repository"
+echo "This is testing from git repository"
+echo "This is testing from git repository"
+echo "This is testing from git repository"
+echo "This is testing from git repository"
+echo "This is testing from git repository"
+echo "This is testing from git repository"
+echo "This is testing from git repository"
+echo "This is testing from git repository"
